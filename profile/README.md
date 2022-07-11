@@ -1,3 +1,4 @@
+<center>
 ### Hi there 👋, Welcome to K I Z U N E.
 #### this organize won't change anything in ur life :D
 
@@ -11,3 +12,5 @@ Skills: VUE JS / SVELTE / EXPRESSJS / NODEJS / JS / TS / HTML / JADE / PUG / CSS
 ![GitHub metrics](https://metrics.lecoq.io/KIZUNEParty)  
 
 ![Profile views](https://gpvc.arturio.dev/KIZUNEParty)  
+
+</center>
