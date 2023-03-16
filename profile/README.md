@@ -1,6 +1,6 @@
 <center>
-### Hi there 👋, Welcome to K I Z U N E.
-#### this organize won't change anything in ur life :D
+### Hi there 👋, Welcome to K I Z U N E. <br />
+#### this organize won't change anything in ur life :D <br />
 
 Skills: VUE JS / SVELTE / EXPRESSJS / NODEJS / JS / TS / HTML / JADE / PUG / CSS
 
